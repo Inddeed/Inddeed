@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raihan
 - 👀 I’m interested in data related skills and domain
-- 🌱 I’m currently learning data Analysis and data analytics
+- 🌱 I’m currently learning data analysis and analytics
 
 
 <!---
