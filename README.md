@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Inddeed
+- 👋 Hi, I’m Raihan
 - 👀 I’m interested in Data related skills
-- 🌱 I’m currently learning Data analysis and data analytics
+- 🌱 I’m currently learning Data Analysis and Data Analytics
 
 
 <!---
