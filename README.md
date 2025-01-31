@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Raihan, i'm passionate about leveraging data and solving problems
-- 👀 I’m interested in data related skills
+- 👋 Hi, I’m Raihan, i'm passionate learning more about data and apply my understanding to solve problems
 - 🌱 Currently learning data analysis
 
 <!---
