@@ -1,4 +1,4 @@
-- 👋 Hi i’m Raihan, i'm passionate apply my data skill understandings to solve business problems
+- 👋 Hi i’m Raihan, i'm passionate apply my data skills to solve business problems
 - 🌱 Currently learning data analytic
 - :large_blue_diamond: Tools : SQL, Python (Pandas, Seaborn, Clustering, AB Testing), Tableau, Looker, Excel, PowerPoint
 <!---
